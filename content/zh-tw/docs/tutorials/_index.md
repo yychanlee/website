@@ -38,7 +38,7 @@ Before walking through each tutorial, you may want to bookmark the
 ## 基礎
 
 * [Kubernetes 基礎](/zh-tw/docs/tutorials/kubernetes-basics/)是一個深入的互動式教學，幫助您了解 Kubernetes 系統並實際嘗試一些基本的 Kubernetes 功能。
-* [Kubernetes 簡介 (edX)](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#)
+* [Kubernetes 簡介（edX）](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#)
 * [Hello Minikube](/zh-tw/docs/tutorials/hello-minikube/)
 
 <!--
